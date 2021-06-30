@@ -1,0 +1,25 @@
+body{
+    background-color: #fff;
+}
+.pagewrapper{
+    height: min-content;
+    margin: 50px;
+    /* background-color: #f1f1f1; */
+}
+.slist{
+   font-size: 30px;
+    text-align: center;
+}
+.table{
+    margin-left: 120px;
+    margin-top: 30px;
+   
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;    
+  }
